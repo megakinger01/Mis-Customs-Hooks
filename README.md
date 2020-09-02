@@ -1,3 +1,7 @@
 # Notas
 
-este repositorio contiene varios hokks para ayudarme a mi y quien quiera
+este repositorio contiene varios hokks
+
+useCounter
+useFetch
+useForm
